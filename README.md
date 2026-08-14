@@ -90,6 +90,8 @@ Polygon WebSocket
   ────────────────────────────────────────────────────────────────
 ```
 
+![Trade Execution Engine Architecture](architecture.png)
+
 ---
 
 ## Project structure
