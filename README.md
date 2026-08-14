@@ -1,4 +1,4 @@
-# Polygon Trading Engine
+# Trade Execution Engine
 
 An async Python algorithmic trading engine that streams live market quotes from Polygon.io, computes technical indicators, evaluates a pluggable strategy, routes orders through a broker abstraction, and exposes full operator control via Telegram.
 
